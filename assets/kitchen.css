@@ -1,0 +1,43 @@
+	body {
+			background-color: linen;
+			padding-left: 55px;
+			padding-top: 25px;
+		}
+
+		h1 {
+			font-size: 60px;
+			color:green;
+		}
+
+		.th {
+			color:green;
+
+		}
+		table, th, td, tr{
+			text-align: left;
+			width: 500px;
+			height: 25px;
+		}
+		.imagediv{
+			height:550px;
+		}
+		.image{
+			height: 300px;
+			padding-top: 180px;
+			-webkit-transform: rotate(90deg);
+		}
+
+		.link{
+			text-decoration: none;
+			
+		}
+		.logo{
+			width:60px;
+			height: 60px;
+		}
+	.form1{
+			margin-left:17px;
+		}
+		.form{
+			margin-left:15px;
+		}
